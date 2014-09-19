@@ -1,0 +1,13 @@
+div {
+    border-style:outset;
+        border-width: 5px;
+        padding: 30px;
+}
+
+.container{
+    border-color: red;
+}
+
+.row{
+    border-color: blue;
+}
