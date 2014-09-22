@@ -1,12 +1,14 @@
 div {
     border-style:outset;
         border-width: 5px;
+        border-color: orangered;
         padding: 30px;
 }
 
 .container{
     border-color: red;
 }
+
 
 .row{
     border-color: blue;
