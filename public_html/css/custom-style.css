@@ -19,3 +19,50 @@ div {
     margin-top: 40px;
     margin-bottom: 40px;
 }
+
+body{
+    background-color: white;
+}
+
+nav a {color: hotpink;
+
+}
+
+body {
+    color: blue;
+}
+
+project-body{
+    color: red;
+}
+
+.uppercase {
+    text-transform:uppercase;
+    font-size: 38px;
+}
+
+
+img {
+    width: 400px;
+    height: auto;
+}
+
+h1{
+    border-bottom: 2px dashed black;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 50px;
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-right: 950px;
+}
+
+body{
+    font-family: fantasy;
+    
+}
+
+#technologies id{
+    background-image: url('http://www.allenschool.edu/blog/wp-content/uploads/2014/06/Technology.jpg')
+}
+
