@@ -1,5 +1,5 @@
 div {
-    border-style:outset;
+    border-style:ridge;
         border-width: 5px;
         border-color: orangered;
         padding: 30px;
@@ -21,7 +21,7 @@ div {
 }
 
 body{
-    background-color: white;
+    background-color: black;
 }
 
 nav a {color: hotpink;
@@ -29,7 +29,7 @@ nav a {color: hotpink;
 }
 
 body {
-    color: blue;
+    color: blueviolet;
 }
 
 project-body{
@@ -62,7 +62,14 @@ body{
     
 }
 
-#technologies id{
+#technologies{
     background-image: url('http://www.allenschool.edu/blog/wp-content/uploads/2014/06/Technology.jpg')
 }
 
+body{
+    background-image: url('http://upload.wikimedia.org/wikipedia/en/1/1b/Phs-bulldog.png')
+}
+
+body{
+    background-size: 1250px;
+}
