@@ -1,17 +1,17 @@
 div {
     border-style:ridge;
         border-width: 5px;
-        border-color: orangered;
+        border-color: white;
         padding: 30px;
 }
 
 .container{
-    border-color: red;
+    border-color: silver;
 }
 
 
 .row{
-    border-color: blue;
+    border-color: gold;
 }
 
 .list-group-item{
@@ -73,3 +73,4 @@ body{
 body{
     background-size: 1250px;
 }
+
