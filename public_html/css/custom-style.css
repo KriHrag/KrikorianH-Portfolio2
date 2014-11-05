@@ -1,3 +1,8 @@
+.jumbotron {
+    text-align: left;
+    text-shadow: 4px 4px 4px #123456;
+}
+
 div {
     border-style:ridge;
         border-width: 5px;
