@@ -1,6 +1,9 @@
 .jumbotron {
-    text-align: left;
-    text-shadow: 4px 4px 4px #123456;
+    text-align: center;
+    text-shadow: 2px 2px 2px #000000;
+    color: #FF0000;
+    background-color: transparent;
+    
 }
 
 div {
