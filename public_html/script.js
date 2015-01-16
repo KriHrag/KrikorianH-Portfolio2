@@ -49,19 +49,19 @@ function removeAPara(){
 }
 
 function addAPara(){
-    $('#randPara').append('<p>Hallo</p>');
+    $('#randPara').append('<p>So?!/p>');
 }
 
 function replaceWText(){
-    $('#replaceWText').text('Poooooo!!!');
+    $('#replaceWText').text('Hello');
 }
 
 function mouseOverMe(){
-    $('h1').html('Hi Guys');
+    $('h1').html('G4M3R 4L3RT');
 }
 
 function mouseOutMe(){
-    $('h1').html('NUTELLA IS BAE!');
+    $('h1').html('Click Here And?!');
 }
 
 function mouseClick(){
