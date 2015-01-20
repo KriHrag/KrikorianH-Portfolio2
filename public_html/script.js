@@ -35,9 +35,10 @@ $('document').ready(function(){
 
 
 function hideThePage(){
-    $('div').show('fold', {}, 2500);
-    $('#show').hide('puff', {}, 2500);
+    $('#show').show('fold', {}, 2500);
+    $('div').hide('puff', {}, 2500);
 }
+
     function showThePage(){
         $('div').show('fold', {}, 2500);
         $('#show').hide('puff', {}, 2500);
